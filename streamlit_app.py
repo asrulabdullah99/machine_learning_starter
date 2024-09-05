@@ -45,7 +45,6 @@ with st.expander('Input features'):
   input_df
   st.write('**(combined penguins data)**')
   input_penguins
-#input_df
 
 #Encode
 encode = ['island','sex']
